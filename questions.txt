@@ -1,0 +1,4 @@
+{"question": "O'zbekiston poytaxti qayer?", "answer": "Toshkent"}
+{"question": "Apple manosi nima?", "answer": "olma"}
+{"question": "Python qanday til?", "answer": "dasturlash"}
+{"question": "Gitler kim?", "answer": "Germaniya prizidenti"}
