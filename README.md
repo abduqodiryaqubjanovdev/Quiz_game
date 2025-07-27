@@ -8,7 +8,7 @@ Bu Pythonda yozilgan oddiy savol-javob o‘yini. Har bir savolga 4 ta variant bo
 
 \## Xususiyatlar
 
-\- Konsolda ishlaydi
+\- GUI bor
 
 \- Savollar va javoblar ro‘yxatga joylangan
 
